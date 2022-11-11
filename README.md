@@ -1,5 +1,1 @@
-<!-- @format -->
-
-# URL
-
-https://weatherapp-strive.herokuapp.com/
+## Starting files for a React Typescript App
